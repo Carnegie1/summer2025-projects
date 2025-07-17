@@ -1,0 +1,1 @@
+This lecture went over the basics of if,elif,else,and,or code statements, code elegance and the 'match' keyword. Code does not represent the exact code the lecture covered, but what I wrote down to cement my understanding of the concepts. 
